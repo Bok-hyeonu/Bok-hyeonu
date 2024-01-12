@@ -34,5 +34,5 @@ me = DataScientist()
 me.say_hi()
 ```
 
-## contact
-bhwoo1001@naver.com
+## 📫 contact
+<a href="mailto:imgm3452@naver.com"><img src="https://img.shields.io/badge/imgm3452-009900?style=flat-square&logo=Naver&logoColor=white&link=bhwoo1001@naver.com"/></a><!--Naver-->
