@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+```python
 
 
 class DataAnalyst:
@@ -33,3 +32,4 @@ class DataAnalyst:
         
 me = DataAnalyst()
 me.say_hi()
+```
