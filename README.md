@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Hyeonwoo Bok"
+        self.role = "Data Scientist"
+        self.age = "26"
+        self.major = "statistics"
+        
+    def say_hi(self):
+        print(f'Hi! My name is {self.name}.')
+        print(f'I\'m a {self.age}-year-old master\'s student in {self.major} who wants to become a {self.role}.')
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+        
+me = DataAnalyst()
+me.say_hi()
