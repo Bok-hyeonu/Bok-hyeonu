@@ -35,4 +35,4 @@ me.say_hi()
 ```
 
 ## 📫 contact
-<a href="mailto:imgm3452@naver.com"><img src="https://img.shields.io/badge/imgm3452-009900?style=flat-square&logo=Naver&logoColor=white&link=bhwoo1001@naver.com"/></a><!--Naver-->
+<a href="mailto:bhwoo1001@naver.com"><img src="https://img.shields.io/badge/bhwoo1001-009900?style=flat-square&logo=Naver&logoColor=white&link=bhwoo1001@naver.com"/></a><!--Naver-->
