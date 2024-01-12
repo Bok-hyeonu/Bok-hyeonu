@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Bok-hyeonu/Bok-hyeonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,3 +33,6 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 ```
+
+## contact
+bhwoo1001@naver.com
