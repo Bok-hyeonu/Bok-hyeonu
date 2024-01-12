@@ -38,6 +38,11 @@ me.say_hi()
 <a href="mailto:bhwoo1001@naver.com"><img src="https://img.shields.io/badge/bhwoo1001-009900?style=flat-square&logo=Naver&logoColor=white&link=bhwoo1001@naver.com"/></a><!--Naver-->
 
 ## 🔧 Technologies &  Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Sas-informational?style=flat&logo=&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=6aa6f8)
 
 ## 🏆 Dacon AI Challenge
 Dacon is site that hosts AI Challenge like kaggle.
