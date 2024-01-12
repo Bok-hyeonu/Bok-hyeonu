@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ```python
 
 
-class DataAnalyst:
+class DataScientist:
     def __init__(self):
         self.name = "Hyeonwoo Bok"
         self.role = "Data Scientist"
@@ -30,6 +30,6 @@ class DataAnalyst:
         print(f'I\'m a {self.age}-year-old master\'s student in {self.major} who wants to become a {self.role}.')
         print("Thanks for dropping by, hope you find some of my work interesting.")
         
-me = DataAnalyst()
+me = DataScientist()
 me.say_hi()
 ```
