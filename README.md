@@ -42,8 +42,8 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Sas-informational?style=flat&logo=&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=6aa6f8)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=6aa6f8)
+
 
 ## 🏆 Dacon AI Challenge
 Dacon is site that hosts AI Challenge like kaggle.
