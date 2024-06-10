@@ -46,7 +46,8 @@ me.say_hi()
 
 
 ## 🏆 Dacon AI Challenge
-Dacon is site that hosts AI Challenge like kaggle.
+Dacon is site that hosts AI Challenge like kaggle.  
+
 **`Online channel product sales amount prediction AI online hackathon Phase 2 (온라인 채널 제품 판매량 예측 온라인 AI 해커톤) 8/747 상위 2%`**
 
 [Dacon link](https://dacon.io/competitions/official/236129/overview/description) 
