@@ -34,8 +34,9 @@ me = DataScientist()
 me.say_hi()
 ```
 
-## 📫 contact
-<a href="mailto:bhwoo1001@naver.com"><img src="https://img.shields.io/badge/bhwoo1001-009900?style=flat-square&logo=Naver&logoColor=white&link=bhwoo1001@naver.com"/></a><!--Naver-->
+## 🗞️ Certificates
+
+- ** `빅데이터분석기사(한국데이터산업진흥원/2023.07.14)`**
 
 ## 🔧 Technologies &  Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
@@ -53,3 +54,6 @@ me.say_hi()
 
 - **`[DACON] Online channel product sales amount prediction AI offline hackathon Phase 2 (온라인 채널 제품 판매량 예측 오프라인 AI 해커톤 본선, 주최: LG AI research) 10/43`**
     - [Dacon link](https://dacon.io/competitions/official/236156/overview/description)
+
+## 📫 contact
+<a href="mailto:bhwoo1001@naver.com"><img src="https://img.shields.io/badge/bhwoo1001-009900?style=flat-square&logo=Naver&logoColor=white&link=bhwoo1001@naver.com"/></a><!--Naver-->
