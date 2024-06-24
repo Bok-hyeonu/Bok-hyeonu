@@ -48,14 +48,18 @@ me.say_hi()
 ## 🌎 Language 
 
 - **`TOEIC 845 (2022.09.04)`**
-- **`OPIC IM1 (2023.07.31)`**
+- **`OPIC IM1 (2024.06.14)`**
 
 ## 🔧 Technologies &  Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=6aa6f8)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
 ![](https://img.shields.io/badge/Code-Sas-informational?style=flat&logo=&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=6aa6f8)
 
 
 ## 💻 Project  
@@ -68,4 +72,6 @@ me.say_hi()
     - [Dacon link](https://dacon.io/competitions/official/236156/overview/description)
 
 ## 📫 contact
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhw0930)](https://solved.ac/bhw0930)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bok-hyeonu)](https://github.com/anuraghazra/github-readme-stats)
 <a href="mailto:bhwoo1001@naver.com"><img src="https://img.shields.io/badge/bhwoo1001-009900?style=flat-square&logo=Naver&logoColor=white&link=bhwoo1001@naver.com"/></a><!--Naver-->
