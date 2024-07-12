@@ -72,7 +72,7 @@ me.say_hi()
     - [Dacon link](https://dacon.io/competitions/official/236156/overview/description)
 
 - **금융상품 추천 프로젝트(금상추)**
-    - [레포지토리 보러 가기](../../../Aimers3rdOnline)  
+    - [레포지토리 보러 가기](https://github.com/kimbok2/golden-lettuce)  
 ## 📫 contact
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhw0930)](https://solved.ac/bhw0930)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bok-hyeonu)](https://github.com/anuraghazra/github-readme-stats)
