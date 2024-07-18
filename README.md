@@ -75,5 +75,4 @@ me.say_hi()
     - [레포지토리 보러 가기](https://github.com/kimbok2/golden-lettuce)  
 ## 📫 contact
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhw0930)](https://solved.ac/bhw0930)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bok-hyeonu)](https://github.com/anuraghazra/github-readme-stats)
 <a href="mailto:bhwoo1001@naver.com"><img src="https://img.shields.io/badge/bhwoo1001-009900?style=flat-square&logo=Naver&logoColor=white&link=bhwoo1001@naver.com"/></a><!--Naver-->
