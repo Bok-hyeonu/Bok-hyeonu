@@ -79,7 +79,16 @@ me.say_hi()
   - [Dacon link](https://dacon.io/competitions/official/236156/overview/description)
 
 - **금융상품 추천 프로젝트(금상추)**
+
   - [레포지토리 보러 가기](https://github.com/kimbok2/golden-lettuce)
+
+- **운동 루틴 관리 애플리케이션 프로젝트(0CHA)**
+
+  - [레포지토리 보러 가기](../../../0CHAH)
+
+- **스마트팩토리 불량 탐지 프로젝트(SFD)**
+  - SSAFY 11기 특화 최우수 프로젝트
+  - [레포지토리 보러 가기](../../../SFD)
 
 ## 📫 contact
 
