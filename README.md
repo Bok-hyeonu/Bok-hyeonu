@@ -51,7 +51,7 @@ me.say_hi()
 ## 🌎 Language
 
 - **`TOEIC 845 (2022.09.04)`**
-- **`OPIC IM1 (2024.06.14)`**
+- **`OPIC IM2 (2024.09.07)`**
 
 ## 🔧 Technologies & Tools
 
