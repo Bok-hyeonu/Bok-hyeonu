@@ -69,25 +69,26 @@ me.say_hi()
 
 ## 💻 Project
 
-- **`[DA/DACON] Online channel product sales amount prediction AI online hackathon Phase 2 (온라인 채널 제품 판매량 예측 온라인 AI 해커톤) 8/747 상위 2%`**
-
+- **`[DA/DACON] Online channel product sales amount prediction AI online hackathon Phase 2 (온라인 채널 제품 판매량 예측 온라인 AI 해커톤) 8/747 상위 1%`**
+  - AI/Data
   - [레포지토리 보러 가기](../../../Aimers3rdOnline)
   - [Dacon link](https://dacon.io/competitions/official/236129/overview/description)
 
 - **`[DA/DACON] Online channel product sales amount prediction AI offline hackathon Phase 2 (온라인 채널 제품 판매량 예측 오프라인 AI 해커톤 본선, 주최: LG AI research) 10/43`**
-
+  - AI/Data
   - [Dacon link](https://dacon.io/competitions/official/236156/overview/description)
 
 - **금융상품 추천 프로젝트(금상추)**
-
+  - FE, BE, Data
   - [레포지토리 보러 가기](https://github.com/kimbok2/golden-lettuce)
 
 - **운동 루틴 관리 애플리케이션 프로젝트(0CHA)**
-
+  - AI, FE
   - [레포지토리 보러 가기](../../../0CHAH)
 
 - **스마트팩토리 불량 탐지 프로젝트(SFD)**
-  - SSAFY 11기 특화 최우수 프로젝트
+  - AI/Data
+  - 🥇 SSAFY 11기 특화 최우수 프로젝트
   - [레포지토리 보러 가기](../../../SFD)
 
 ## 📫 contact
